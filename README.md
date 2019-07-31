@@ -1,2 +1,3 @@
-# python-fractals
-Generating Fractals with Python
+# Python Fractals
+
+Generating Fractals with Python, JupyterLab notebooks included! 📚
