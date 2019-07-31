@@ -12,6 +12,7 @@ scipy = "*"
 pandas = "*"
 scikit-learn = "*"
 ipympl = "*"
+numba = "*"
 
 [requires]
 python_version = "3.7"
